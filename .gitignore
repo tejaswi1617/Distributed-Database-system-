@@ -1,0 +1,33 @@
+/target/
+nbactions\.xml
+logs/
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# folders
+.idea/
+# default application storage directory used by the IDE Performance Cache feature
+.data/
+.classpath
+.project
+.settings/
+# default output directories
+target/
+temp/
+classes/
+deploy/
+javadoc/
+doc/
+$*
+nbactions\.xml
+nb-conf*.xml
+dependency-reduced-pom.xml
+dataOld/
+data/
+dataRemote/
